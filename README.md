@@ -8,6 +8,10 @@ Each puzzle has its own folder with the code, notes, and experiments related to 
 
 Puzzles
 
-- Knight%20moves%206
+- [Knight Moves 6](./Knight%20moves%206/)
+  - Released: October 2024
+  - Solved: 12 August 2026
+
+
 
 More puzzles will be added over time.
